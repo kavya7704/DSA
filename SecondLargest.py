@@ -12,4 +12,4 @@ def getSecondLargest(arr):
       
       return second
 arr = list(map(int,input().split()))
-getSecondLargest(arr)
+print(getSecondLargest(arr))
