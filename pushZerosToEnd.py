@@ -7,4 +7,4 @@ def pushZerosToEnd(arr):
                 
         return arr
 arr = list(map(int,input().split()))
-pushZerosToEnd(arr)
+print(pushZerosToEnd(arr))
