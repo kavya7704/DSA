@@ -5,7 +5,7 @@ def findMajority(arr):
           d[i] += 1
       else:
           d[i] = 1
-  
+        
   n = len(arr)            
   arr = []
   
